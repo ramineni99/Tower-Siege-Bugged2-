@@ -2,7 +2,7 @@ const Engine = Matter.Engine;
 const World = Matter.World;
 const Bodies = Matter.Bodies;
 const Body = Matter.Body;
-var world 
+var world;
 
 const Constraint = Matter.Constraint;
 
